@@ -1,6 +1,6 @@
 Khera (Navigator)
 Gaming,Track,and Drawing
-Fyin (Driver)
+Fiyin (Driver)
 Soccor,Drawing,and Cooking
 Alexandra (Reasercher)
 Writing,Drawing,and Art
