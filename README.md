@@ -1,8 +1,16 @@
 Khera (Navigator)
-Gaming,Track,and Drawing
+- Gaming
+- Track
+-  Drawing
 Fiyin (Driver)
-Soccor,Drawing,and Cooking
+- Soccer
+- Drawing
+- Cooking
 Alexandra (Reasercher)
-Writing,Drawing,and Art
+- Writing
+- Drawing
+- Art
 Kaori-Lee (QA Tester) 
-Gaming,Cars,and Meteorology
+- Gaming
+- Cars
+- Meteorology
