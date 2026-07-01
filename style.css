@@ -172,14 +172,22 @@ body {
     color: #2c3e66;
 }
 
-.aspiration-block, .interests-block {
+.aspiration-block, 
+.interests-block,
+.fun-fact-block,
+.goal-block {
     margin: 1rem 0 1rem 0;
     background: #fefaf5;
     padding: 0.8rem 1rem;
     border-radius: 1.5rem;
 }
 
-.aspiration-block h3, .interests-block h3, .pets-collection h3, .extra-creative h3 {
+.aspiration-block h3, 
+.interests-block h3,
+.fun-fact-block h3,
+.goal-block h3,
+.pets-collection h3, 
+.extra-creative h3 {
     font-size: 1.2rem;
     margin-bottom: 0.5rem;
     display: inline-block;
